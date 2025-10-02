@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Murni coy</title>
+</head>
+<body>
+    <center>
+        <font size="7" face="helvetica">
+            Mau <img src="https://raw.githubusercontent.com/mikhaelle-dev/landing-page-canva/refs/heads/main/Screenshot_2025-10-02_161941-removebg-preview.svg" width="11%" > <br> apa hari ini?
+        </font>
+        <p>
+        <font-size="1">
+            Bersama Canva, karya desain apa saja dapat dibuat, dihasilkan, dicetak, dan dikerjakan.
+        </font>
+        </p>
+        <a href="https://www.canva.com/id_id/">
+            <img src="https://raw.githubusercontent.com/mikhaelle-dev/landing-page-canva/refs/heads/main/image2vector.svg" width="10%"> 
+        </a>
+
+            
+    </center>
+</body>
+</html>
